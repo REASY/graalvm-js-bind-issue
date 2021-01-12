@@ -5,4 +5,5 @@
 
 ## How to run
 1. You cloned repo and opened bash/command prompt in that folder
-2. Run `sbt ";runMain com.examples.graalvm.BindExample"`
+2. To run the example with binding issue, use `sbt ";runMain com.examples.graalvm.BindExample"`
+3. To run the example with `Array.map` issue, use `sbt ";runMain com.examples.graalvm.ArrayMapExample"`
