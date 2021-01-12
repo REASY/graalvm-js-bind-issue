@@ -1,10 +1,10 @@
 name := "graalvm-examples"
-version := "0.0.1"
+version := "0.0.2"
 
 val v = new {
   val logback = "1.2.3"
   val scalaLogging = "3.9.2"
-  val graalJs = "20.2.0"
+  val graalJs = "20.3.0"
 }
 
 
